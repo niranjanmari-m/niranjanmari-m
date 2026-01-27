@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Niranjan (Niro)
 
-<!--
-**niranjanmari-m/niranjanmari-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Artificial Intelligence & Data Science Student  
+💻 Python | Machine Learning | Data Analysis  
+🚀 Actively building AI/ML projects  
+🔍 Open to AI/ML Internship Opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Python  
+- Machine Learning  
+- Data Analysis (Pandas, NumPy)  
+- Git & GitHub  
+- Basic SQL  
+
+---
+
+## 📌 Featured Projects
+- 🔔 **Safety App** – SOS alert system with live location & Ghost Mode  
+- 🎙 **AI Voice Assistant** – Voice-based assistant using Python  
+- 📊 **Data Analysis Project** – Exploratory analysis using Pandas & Matplotlib  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/niranjan-m-undefined-3454682b5/  
+- Email: niranjanmari@gmail.com
